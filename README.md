@@ -1,7 +1,7 @@
 # Week-1-Code-Refactor
 BCS week 1 code refactor homework. Horiseon
 
-![screenshot](assets\images\readmepic.png)
+![screenshot](https://github.com/btparker70/Week-1-Code-Refactor/blob/main/assets/images/readmepic.png?raw=true)
 
 ## Table of Contents
 * [Webpage Link](#Webpage-Link)
@@ -19,6 +19,13 @@ This project gave me hands on experience with HTML5's semantic structuring. I le
 I learned the importance of good commenting and how it improves the readability for yourself and others who look at your code. 
 
 ### Credits
+Christina Shiroma
+Emily Thomas
+Dillon Hoban
+Ravi Ganesan
+
+Thank you for your help!
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 ### License
