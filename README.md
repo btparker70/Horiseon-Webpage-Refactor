@@ -11,7 +11,7 @@ BCS week 1 code refactor homework. Horiseon
 
 
 ### Webpage Link
-https://btparker70.github.io/Week-1-Code-Refactor/
+https://btparker70.github.io/Horiseon-Webpage-Refactor/
 
 ### What I Learned
 This project gave me hands on experience with HTML5's semantic structuring. I learned that semantic structure is imporant for readability for developers, and for accessibility among ADA users and others who browse webpages using text-readers or by other means.
